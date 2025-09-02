@@ -104,3 +104,4 @@
     console.log("promise reolved");
   }
   p.then(callback);
+  p.then(callback);
